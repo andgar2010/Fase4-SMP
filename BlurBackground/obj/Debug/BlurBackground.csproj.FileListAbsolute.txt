@@ -1,0 +1,6 @@
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\bin\Debug\BlurBackground.dll
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\bin\Debug\BlurBackground.pdb
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\obj\Debug\BlurBackground.csproj.CoreCompileInputs.cache
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\obj\Debug\BlurBackground.dll
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\obj\Debug\BlurBackground.pdb
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BlurBackground\obj\Debug\BlurBackground.csprojResolveAssemblyReference.cache

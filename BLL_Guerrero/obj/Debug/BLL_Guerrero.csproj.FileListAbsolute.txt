@@ -1,0 +1,6 @@
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\bin\Debug\BLL_Guerrero.dll
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\bin\Debug\BLL_Guerrero.pdb
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\obj\Debug\BLL_Guerrero.csprojResolveAssemblyReference.cache
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\obj\Debug\BLL_Guerrero.csproj.CoreCompileInputs.cache
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\obj\Debug\BLL_Guerrero.dll
+C:\Users\AndGar\source\repos\FASE4-SMP\SMP-Actividad20-Guerra\BLL_Guerrero\obj\Debug\BLL_Guerrero.pdb
